@@ -1,0 +1,2 @@
+status,primal_train_accuracy,dual_train_accuracy,primal_dual_w_l2,primal_dual_b_abs,max_primal_violation
+solved,1.0,1.0,1.1873499574824226e-06,5.341087661037136e-08,1.55964130499342e-12
